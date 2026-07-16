@@ -1,0 +1,6 @@
+*.bak
+*.mdf
+*.ldf
+.vscode/
+.idea/
+
