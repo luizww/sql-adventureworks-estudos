@@ -1,7 +1,17 @@
-# Estudos de SQL com AdventureWorks
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="78" alt="Microsoft SQL Server">
+</p>
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
-![Database](https://img.shields.io/badge/base-AdventureWorks-0078D4)
+<h1 align="center">Estudos de SQL com AdventureWorks</h1>
+
+<p align="center">
+  Consultas que acompanham meus primeiros estudos de banco de dados.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white" alt="SQL Server e T-SQL">
+  <img src="https://img.shields.io/badge/base-AdventureWorks-0078D4" alt="AdventureWorks">
+</p>
 
 Consultas desenvolvidas durante meus estudos iniciais de SQL utilizando o banco
 de dados de exemplo **AdventureWorks**, da Microsoft.
@@ -29,17 +39,12 @@ docs/
 └── anotacoes.md
 ```
 
-## Preparação do ambiente
+## Como usar
 
-1. Instale o SQL Server e o SQL Server Management Studio;
-2. Baixe o backup oficial do AdventureWorks;
-3. Restaure o banco no SQL Server;
-4. Abra um arquivo da pasta `consultas` no SSMS;
-5. Execute cada consulta separadamente.
-
-O backup `.bak` não está incluído neste repositório para evitar armazenar um
-arquivo grande de terceiros. Ele pode ser obtido na página oficial de
-[bancos de exemplo AdventureWorks da Microsoft](https://github.com/microsoft/sql-server-samples/blob/master/samples/databases/adventure-works/README.md).
+Os arquivos da pasta `consultas` podem ser abertos no SQL Server Management
+Studio e executados em um banco AdventureWorks restaurado. O backup não está no
+repositório, mas pode ser baixado na página oficial de
+[exemplos da Microsoft](https://github.com/microsoft/sql-server-samples/blob/master/samples/databases/adventure-works/README.md).
 
 ## Observação
 
