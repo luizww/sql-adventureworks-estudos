@@ -16,6 +16,8 @@
 Consultas desenvolvidas durante meus estudos iniciais de SQL utilizando o banco
 de dados de exemplo **AdventureWorks**, da Microsoft.
 
+Este material é uma prática de aprendizado com uma base de exemplo; não representa experiência profissional administrando bancos de dados.
+
 ## Conteúdos praticados
 
 - `SELECT`, `FROM` e `DISTINCT`;
