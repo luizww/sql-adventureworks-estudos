@@ -27,17 +27,17 @@ de dados de exemplo **AdventureWorks**, da Microsoft.
 - Consultas nos esquemas `Person`, `Production`, `Sales` e
   `HumanResources`.
 
-## Estrutura
+## Explore os estudos
 
-```text
-consultas/
-├── 01_filtros.sql
-├── 02_agregacoes.sql
-├── 03_agrupamentos.sql
-└── 04_pessoas_e_produtos.sql
-docs/
-└── anotacoes.md
-```
+| Arquivo | Assunto |
+| --- | --- |
+| [Filtros](consultas/filtros.sql) | Seleção, condições e ordenação |
+| [Agregações](consultas/agregacoes.sql) | Funções para resumir os dados |
+| [Agrupamentos](consultas/agrupamentos.sql) | Resultados por grupo |
+| [Pessoas e produtos](consultas/pessoas_e_produtos.sql) | Consultas temáticas |
+| [Anotações](docs/anotacoes.md) | Notas de estudo |
+
+A sequência sugerida é filtros, agregações e agrupamentos; depois, explore as consultas temáticas.
 
 ## Como usar
 
